@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Localization;
 using UnityEngine.Localization.Components;
 
-namespace dmdspirit.Core.UI.Skins
+namespace aether.Aether.UI.Skins
 {
     public sealed class LocalizedTextReactor : SkinReactor
     {

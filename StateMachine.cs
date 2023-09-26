@@ -1,11 +1,11 @@
 #nullable enable
 using System;
 using System.Collections.Generic;
-using dmdspirit.Core.CommonInterfaces;
+using aether.Aether.CommonInterfaces;
 using UniRx;
 using UnityEngine;
 
-namespace dmdspirit.Core
+namespace aether.Aether
 {
     public class StateMachine
     {

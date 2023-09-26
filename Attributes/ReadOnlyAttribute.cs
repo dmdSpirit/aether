@@ -2,7 +2,7 @@
 
 using UnityEngine;
 
-namespace dmdspirit.Core.Attributes
+namespace aether.Aether.Attributes
 {
     public class ReadOnlyAttribute : PropertyAttribute { }
 }

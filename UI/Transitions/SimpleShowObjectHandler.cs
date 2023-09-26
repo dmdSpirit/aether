@@ -1,7 +1,7 @@
 #nullable enable
 using UnityEngine;
 
-namespace dmdspirit.Core.UI.Transitions
+namespace aether.Aether.UI.Transitions
 {
     public class SimpleShowObjectHandler : MonoBehaviour, IShowTransitionHandler
     {

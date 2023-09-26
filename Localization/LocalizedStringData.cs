@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine.Localization;
 
-namespace dmdspirit.Core.Localization
+namespace aether.Aether.Localization
 {
     public sealed class LocalizedStringData
     {

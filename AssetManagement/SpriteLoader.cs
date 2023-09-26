@@ -1,12 +1,11 @@
 ﻿#nullable enable
 
-using dmdspirit.Core.AssetManagement;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
 using UnityEngine.UI;
 using Zenject;
 
-namespace Solar2048.AssetManagement
+namespace aether.Aether.AssetManagement
 {
     public sealed class SpriteLoader : MonoBehaviour
     {

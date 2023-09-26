@@ -3,7 +3,7 @@
 using System;
 using UnityEngine;
 
-namespace dmdspirit.Core.Attributes
+namespace aether.Aether.Attributes
 {
     [AttributeUsage(AttributeTargets.Field | AttributeTargets.Property | AttributeTargets.Class
                     | AttributeTargets.Struct)]

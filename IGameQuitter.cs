@@ -1,6 +1,6 @@
 #nullable enable
 
-namespace dmdspirit.Core
+namespace aether.Aether
 {
     public interface IGameQuitter
     {

@@ -2,7 +2,7 @@
 
 using UnityEngine;
 
-namespace dmdspirit.Core.Attributes
+namespace aether.Aether.Attributes
 {
     [System.AttributeUsage(System.AttributeTargets.Field)]
     public class ButtonAttribute : PropertyAttribute

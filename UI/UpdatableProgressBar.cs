@@ -4,7 +4,7 @@ using UniRx;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace dmdspirit.Core.UI
+namespace aether.Aether.UI
 {
     public sealed class UpdatableProgressBar : MonoBehaviour
     {

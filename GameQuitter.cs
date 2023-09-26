@@ -2,7 +2,7 @@
 
 using JetBrains.Annotations;
 
-namespace dmdspirit.Core
+namespace aether.Aether
 {
     [UsedImplicitly]
     public sealed class GameQuitter : IGameQuitter

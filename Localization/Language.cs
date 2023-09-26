@@ -1,6 +1,6 @@
 ﻿#nullable enable
 
-namespace dmdspirit.Core.Localization
+namespace aether.Aether.Localization
 {
     public sealed class Language
     {

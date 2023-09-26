@@ -2,7 +2,7 @@
 
 using UnityEngine;
 
-namespace dmdspirit.Core.UI.Skins
+namespace aether.Aether.UI.Skins
 {
     public abstract class SkinReactor : MonoBehaviour
     {

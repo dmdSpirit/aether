@@ -1,12 +1,12 @@
 #nullable enable
 
 using System;
-using dmdspirit.Core.UI.Transitions;
+using aether.Aether.UI.Transitions;
 using UniRx;
 using UnityEngine;
 using Zenject;
 
-namespace dmdspirit.Core.UI
+namespace aether.Aether.UI
 {
     public abstract class UIScreen : MonoBehaviour, IUIScreen
     {

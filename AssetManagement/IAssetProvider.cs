@@ -3,7 +3,7 @@
 using System.Threading.Tasks;
 using UnityEngine.AddressableAssets;
 
-namespace dmdspirit.Core.AssetManagement
+namespace aether.Aether.AssetManagement
 {
     public interface IAssetProvider
     {

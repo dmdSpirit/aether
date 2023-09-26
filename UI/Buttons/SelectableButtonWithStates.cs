@@ -1,7 +1,7 @@
 #nullable enable
 using System;
 
-namespace dmdspirit.Core.UI.Buttons
+namespace aether.Aether.UI.Buttons
 {
     public class SelectableButtonWithStates : ButtonWithStates
     {

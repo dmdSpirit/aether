@@ -1,8 +1,7 @@
 #nullable enable
 using System;
-using Zenject;
 
-namespace dmdspirit.Core.UI
+namespace aether.Aether.UI
 {
     public interface IUIScreen
     {

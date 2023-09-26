@@ -1,6 +1,6 @@
 #nullable enable
 
-namespace dmdspirit.Core.UI.Transitions
+namespace aether.Aether.UI.Transitions
 {
     public interface IHideTransitionHandler
     {

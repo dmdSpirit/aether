@@ -2,7 +2,7 @@
 using TMPro;
 using UnityEngine;
 
-namespace dmdspirit.Core.UI.Skins
+namespace aether.Aether.UI.Skins
 {
     public sealed class TextFontSkinReactor : SkinReactor
     {

@@ -7,7 +7,7 @@ using JetBrains.Annotations;
 using UnityEngine.AddressableAssets;
 using UnityEngine.ResourceManagement.AsyncOperations;
 
-namespace dmdspirit.Core.AssetManagement
+namespace aether.Aether.AssetManagement
 {
     [UsedImplicitly]
     public sealed class AssetProvider : IAssetProvider

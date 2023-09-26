@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Assertions;
 
-namespace dmdspirit.Core.UI
+namespace aether.Aether.UI
 {
     public class ElementsList : MonoBehaviour
     {

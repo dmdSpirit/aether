@@ -1,7 +1,7 @@
 #nullable enable
 using UnityEngine;
 
-namespace dmdspirit.Core.UI.Skins
+namespace aether.Aether.UI.Skins
 {
     public sealed class RectSizeSkinReactor : SkinReactor
     {

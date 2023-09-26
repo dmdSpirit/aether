@@ -5,7 +5,7 @@ using UniRx;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace dmdspirit.Core.UI
+namespace aether.Aether.UI
 {
     public sealed class ClickInvoker : MonoBehaviour, IPointerClickHandler
     {

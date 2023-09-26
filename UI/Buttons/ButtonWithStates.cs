@@ -1,13 +1,13 @@
 #nullable enable
 
 using System;
-using dmdspirit.Core.Attributes;
-using dmdspirit.Core.UI.Skins;
+using aether.Aether.Attributes;
+using aether.Aether.UI.Skins;
 using UniRx;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace dmdspirit.Core.UI.Buttons
+namespace aether.Aether.UI.Buttons
 {
     public class ButtonWithStates : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler, IPointerDownHandler,
         IPointerUpHandler

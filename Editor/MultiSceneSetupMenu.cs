@@ -8,7 +8,7 @@ using UnityEditor.SceneManagement;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
-namespace dmdspirit.Editor.Core.Editor
+namespace aether.Editor.Aether.Editor
 {
     public static class MultiSceneSetupMenu
     {

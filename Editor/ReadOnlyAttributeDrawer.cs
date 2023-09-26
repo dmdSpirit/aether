@@ -1,10 +1,10 @@
 #nullable enable
 
-using dmdspirit.Core.Attributes;
+using aether.Aether.Attributes;
 using UnityEditor;
 using UnityEngine;
 
-namespace dmdspirit.Editor.Core.Editor
+namespace aether.Editor.Aether.Editor
 {
     [CustomPropertyDrawer(typeof(ReadOnlyAttribute))]
     public class ReadOnlyAttributeDrawer : PropertyDrawer

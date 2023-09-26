@@ -1,7 +1,7 @@
 #nullable enable
 using UnityEngine;
 
-namespace dmdspirit.Core.UI
+namespace aether.Aether.UI
 {
     public abstract class Tooltip : MonoBehaviour
     {

@@ -3,7 +3,7 @@
 using System;
 using UnityEngine;
 
-namespace dmdspirit.Core.UI.Skins
+namespace aether.Aether.UI.Skins
 {
     public sealed class CanvasSortOrderSkinReactor : SkinReactor
     {
