@@ -1,6 +1,5 @@
 {
     "name": "AetherEditor",
-    "rootNamespace": "aether.Editor",
     "references": [
         "GUID:c7c9ad44e6b393d4c98e1b982b590fe9"
     ],
