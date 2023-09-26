@@ -6,7 +6,7 @@ using Zenject;
 
 namespace Aether
 {
-    public sealed class CoreGameInstallers : MonoInstaller
+    public sealed class AetherGameInstallers : MonoInstaller
     {
         public override void InstallBindings()
         {
