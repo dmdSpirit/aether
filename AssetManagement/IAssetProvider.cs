@@ -3,7 +3,7 @@
 using System.Threading.Tasks;
 using UnityEngine.AddressableAssets;
 
-namespace aether.Aether.AssetManagement
+namespace Aether.AssetManagement
 {
     public interface IAssetProvider
     {

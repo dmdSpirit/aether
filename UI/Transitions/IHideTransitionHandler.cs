@@ -1,6 +1,6 @@
 #nullable enable
 
-namespace aether.Aether.UI.Transitions
+namespace Aether.UI.Transitions
 {
     public interface IHideTransitionHandler
     {

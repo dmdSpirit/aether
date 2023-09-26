@@ -3,7 +3,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace aether.Aether.UI
+namespace Aether.UI
 {
     public sealed class SimpleProgressBar : MonoBehaviour
     {

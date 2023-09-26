@@ -3,7 +3,7 @@
 using TMPro;
 using UnityEngine;
 
-namespace aether.Aether.UI
+namespace Aether.UI
 {
     public sealed class BuildNumberPanel : MonoBehaviour
     {

@@ -1,10 +1,10 @@
 #nullable enable
 
-using aether.Aether.AssetManagement;
-using aether.Aether.UI;
+using Aether.AssetManagement;
+using Aether.UI;
 using Zenject;
 
-namespace aether.Aether
+namespace Aether
 {
     public sealed class CoreGameInstallers : MonoInstaller
     {

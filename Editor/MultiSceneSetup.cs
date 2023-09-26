@@ -3,7 +3,7 @@
 using UnityEditor.SceneManagement;
 using UnityEngine;
 
-namespace aether.Editor.Aether.Editor
+namespace Aether.Editor
 {
     public class MultiSceneSetup : ScriptableObject
     {

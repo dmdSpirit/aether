@@ -5,7 +5,7 @@ using UnityEngine.AddressableAssets;
 using UnityEngine.UI;
 using Zenject;
 
-namespace aether.Aether.AssetManagement
+namespace Aether.AssetManagement
 {
     public sealed class SpriteLoader : MonoBehaviour
     {

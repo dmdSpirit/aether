@@ -2,7 +2,7 @@
 
 using UnityEngine;
 
-namespace aether.Aether.UI.Transitions
+namespace Aether.UI.Transitions
 {
     public sealed class CanvasAlphaHideHandler : SimpleHideObjectHandler
     {

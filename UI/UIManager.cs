@@ -6,7 +6,7 @@ using JetBrains.Annotations;
 using UniRx;
 using UnityEngine;
 
-namespace aether.Aether.UI
+namespace Aether.UI
 {
     [UsedImplicitly]
     public sealed class UIManager

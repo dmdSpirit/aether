@@ -3,7 +3,7 @@
 using UnityEngine;
 using Zenject;
 
-namespace aether.Aether
+namespace Aether
 {
     public sealed class GameStarter : MonoBehaviour
     {

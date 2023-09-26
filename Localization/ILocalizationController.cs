@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UniRx;
 using UnityEngine.Localization;
 
-namespace aether.Aether.Localization
+namespace Aether.Localization
 {
     public interface ILocalizationController
     {

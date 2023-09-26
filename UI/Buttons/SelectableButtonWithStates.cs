@@ -1,7 +1,7 @@
 #nullable enable
 using System;
 
-namespace aether.Aether.UI.Buttons
+namespace Aether.UI.Buttons
 {
     public class SelectableButtonWithStates : ButtonWithStates
     {

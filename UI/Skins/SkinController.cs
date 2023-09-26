@@ -1,11 +1,11 @@
 #nullable enable
 
 using System.Collections.Generic;
-using aether.Aether.Attributes;
+using Aether.Attributes;
 using UnityEditor;
 using UnityEngine;
 
-namespace aether.Aether.UI.Skins
+namespace Aether.UI.Skins
 {
     public class SkinController : MonoBehaviour
     {

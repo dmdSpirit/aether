@@ -1,6 +1,6 @@
 ﻿#nullable enable
 
-namespace aether.Aether.Localization
+namespace Aether.Localization
 {
     public sealed class Language
     {

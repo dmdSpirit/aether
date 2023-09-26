@@ -3,7 +3,7 @@
 using System;
 using UnityEngine;
 
-namespace aether.Aether.UI.Skins
+namespace Aether.UI.Skins
 {
     public sealed class CanvasSortOrderSkinReactor : SkinReactor
     {

@@ -3,7 +3,7 @@
 using System;
 using UnityEngine;
 
-namespace aether.Aether.Attributes
+namespace Aether.Attributes
 {
     [AttributeUsage(AttributeTargets.Field | AttributeTargets.Property | AttributeTargets.Class
                     | AttributeTargets.Struct)]

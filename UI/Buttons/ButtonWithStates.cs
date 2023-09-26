@@ -1,13 +1,13 @@
 #nullable enable
 
 using System;
-using aether.Aether.Attributes;
-using aether.Aether.UI.Skins;
+using Aether.Attributes;
+using Aether.UI.Skins;
 using UniRx;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace aether.Aether.UI.Buttons
+namespace Aether.UI.Buttons
 {
     public class ButtonWithStates : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler, IPointerDownHandler,
         IPointerUpHandler

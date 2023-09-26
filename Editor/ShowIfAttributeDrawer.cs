@@ -1,10 +1,10 @@
 #nullable enable
 
-using aether.Aether.Attributes;
+using Aether.Attributes;
 using UnityEditor;
 using UnityEngine;
 
-namespace aether.Editor.Aether.Editor
+namespace Aether.Editor
 {
     [CustomPropertyDrawer(typeof(ShowIfAttribute))]
     public class ShowIfAttributeDrawer : PropertyDrawer

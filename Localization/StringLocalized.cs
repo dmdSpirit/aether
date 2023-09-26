@@ -8,7 +8,7 @@ using UnityEngine.Localization;
 using UnityEngine.Localization.Components;
 using Zenject;
 
-namespace aether.Aether.Localization
+namespace Aether.Localization
 {
     // TODO (Stas): I think it would be better to use IVariable functionality of unity localization system
     // https://docs.unity3d.com/Packages/com.unity.localization@1.2/manual/Smart/Persistent-Variables-Source.html

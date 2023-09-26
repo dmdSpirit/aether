@@ -1,11 +1,11 @@
 #nullable enable
 
 using System.Reflection;
-using aether.Aether.Attributes;
+using Aether.Attributes;
 using UnityEditor;
 using UnityEngine;
 
-namespace aether.Editor.Aether.Editor
+namespace Aether.Editor
 {
     [CustomPropertyDrawer(typeof(ButtonAttribute))]
     public class ButtonPropertyDrawer : PropertyDrawer

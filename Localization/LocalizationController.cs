@@ -8,7 +8,7 @@ using UnityEngine;
 using UnityEngine.Localization;
 using UnityEngine.Localization.Settings;
 
-namespace aether.Aether.Localization
+namespace Aether.Localization
 {
     [UsedImplicitly]
     public sealed class LocalizationController : ILocalizationController

@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine.Localization;
 
-namespace aether.Aether.Localization
+namespace Aether.Localization
 {
     public sealed class LocalizedStringData
     {

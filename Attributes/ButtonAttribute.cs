@@ -2,7 +2,7 @@
 
 using UnityEngine;
 
-namespace aether.Aether.Attributes
+namespace Aether.Attributes
 {
     [System.AttributeUsage(System.AttributeTargets.Field)]
     public class ButtonAttribute : PropertyAttribute

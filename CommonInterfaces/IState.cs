@@ -1,5 +1,5 @@
 #nullable enable
-namespace aether.Aether.CommonInterfaces
+namespace Aether.CommonInterfaces
 {
     public interface IState
     {

@@ -1,11 +1,12 @@
 #nullable enable
+
 using System;
 using System.Collections.Generic;
-using aether.Aether.CommonInterfaces;
+using Aether.CommonInterfaces;
 using UniRx;
 using UnityEngine;
 
-namespace aether.Aether
+namespace Aether
 {
     public class StateMachine
     {

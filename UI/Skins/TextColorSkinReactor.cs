@@ -2,7 +2,7 @@
 using TMPro;
 using UnityEngine;
 
-namespace aether.Aether.UI.Skins
+namespace Aether.UI.Skins
 {
     public sealed class TextColorSkinReactor : SkinReactor
     {

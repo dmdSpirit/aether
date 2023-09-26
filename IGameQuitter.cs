@@ -1,6 +1,6 @@
 #nullable enable
 
-namespace aether.Aether
+namespace Aether
 {
     public interface IGameQuitter
     {

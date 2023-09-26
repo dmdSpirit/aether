@@ -1,7 +1,7 @@
 #nullable enable
 using System;
 
-namespace aether.Aether.UI
+namespace Aether.UI
 {
     public interface IUIScreen
     {
