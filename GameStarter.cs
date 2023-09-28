@@ -11,11 +11,7 @@ namespace Aether
 
         [Inject]
         private void Construct(IGameLifeCycle gameLifeCycle)
-        {
-            Application.targetFrameRate = -1;
-            QualitySettings.vSyncCount = 0;
-            _gameLifeCycle = gameLifeCycle;
-        }
+            => _gameLifeCycle = gameLifeCycle;
 
         private void Start()
             => _gameLifeCycle.Start();

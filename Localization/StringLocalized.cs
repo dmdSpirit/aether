@@ -18,7 +18,7 @@ namespace Aether.Localization
     {
         private readonly Dictionary<string, Func<string>> _tokens = new();
 
-        private LocalizationController _localizationController = null!;
+        private ILocalizationController _localizationController = null!;
 
         private TMP_Text _text = null!;
         private LocalizeStringEvent _localizeStringEvent = null!;
@@ -28,7 +28,7 @@ namespace Aether.Localization
         private bool _isInitialized;
 
         [Inject]
-        private void Construct(LocalizationController localizationController)
+        private void Construct(ILocalizationController localizationController)
         {
             _localizationController = localizationController;
         }
