@@ -30,6 +30,20 @@ namespace Aether.AssetManagement
                 => _completedCache[assetReference.RuntimeKey.ToString()] = asyncHandle;
         }
 
+        public async Task<T> Load<T>(string key) where T : class
+        {
+            if (_completedCache.TryGetValue(key, out AsyncOperationHandle completedHandle))
+                return completedHandle.Result as T ?? throw new InvalidOperationException();
+
+            AsyncOperationHandle<T> handle = Addressables.LoadAssetAsync<T>(key);
+            handle.Completed += OnHandleOnCompleted;
+            AddHandle(key, handle);
+            return await handle.Task;
+
+            void OnHandleOnCompleted(AsyncOperationHandle<T> asyncHandle)
+                => _completedCache[key] = asyncHandle;
+        }
+
         public void CleanUp()
         {
             foreach (List<AsyncOperationHandle>? asyncOperationHandles in _loadingHandles.Values)
