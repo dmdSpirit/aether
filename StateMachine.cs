@@ -72,6 +72,8 @@ namespace Aether
             return null;
         }
 
+        // TODO (Stas): No option to register state as starting state that needs argument of specific type.
+        // - Stas 04 November 2023
         public void AddTransition(IState state, Func<IState?, object?, IState?> transition)
         {
             if (!_transitions.ContainsKey(state))
